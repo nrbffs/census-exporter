@@ -7,3 +7,7 @@ This is a tool that scrapes multiple Gluon communities for their Gluon base vers
 This file tracks the communities and their metadata URLs. Multiple URLs can be given, we currently handle `meshviewer.json` (old and new) as well as `nodes.json` (v1, v2).
 
 *Please add your own community and keep it's URLs up to date.*
+
+## How does it look?
+
+![Gluon base version distribution](https://stats.darmstadt.freifunk.net/render/d-solo/CA5PRFmMz/gluon-census?orgId=1&panelId=2&width=1000&height=500)
